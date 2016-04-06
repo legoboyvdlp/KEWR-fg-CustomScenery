@@ -1,9 +1,46 @@
 OBJECT_BASE 1728683.btg
 OBJECT KEWR.btg
-OBJECT_SHARED Models/Airport/beacon.xml -74.176781 40.705154 4.0 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml -74.179695 40.676285 3.4 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml -74.164757 40.699886 2.8 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml -74.174675 40.678921 3.9 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml -74.157516 40.701942 -1.0 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml -74.178780 40.703201 4.2 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml -74.161461 40.699535 1.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.179695 40.676285 2.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.164757 40.699886 2.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.174675 40.678921 2.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.157516 40.701942 2.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.178780 40.703201 2.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.161461 40.699535 2.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -74.176781 40.705154 2.4 0.00
+OBJECT 8NY6.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.007429 40.704639 -9999.0 0.00
+OBJECT 01NJ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.136653 40.742158 -9999.0 0.00
+OBJECT NJ82.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.230516 40.639917 -9999.0 0.00
+OBJECT NJ77.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.082377 40.650515 -9999.0 0.00
+OBJECT NJ35.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.131960 40.702354 -9999.0 0.00
+OBJECT 05NJ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.031344 40.714200 -9999.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -74.031960 40.713991 -9999.0 0.00
+OBJECT KJRB.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.008692 40.701469 -9999.0 0.00
+OBJECT 0NJ7.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.118483 40.738085 -9999.0 0.00
+OBJECT NJ78.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.096349 40.737394 -9999.0 0.00
+OBJECT 8NJ5.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.156500 40.748396 -9999.0 0.00
+OBJECT NJ44.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.244339 40.675925 -9999.0 0.00
+OBJECT 77NJ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.053643 40.693240 -9999.0 0.00
+OBJECT 3N4.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.164601 40.739401 -9999.0 0.00
+OBJECT 91NJ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.029313 40.724752 -9999.0 0.00
+OBJECT 0NJ8.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.150294 40.702631 -9999.0 0.00
+OBJECT NJ80.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.247665 40.740718 -9999.0 0.00
+OBJECT NJ92.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.176683 40.736242 -9999.0 0.00
+OBJECT NJ87.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.190995 40.740876 -9999.0 0.00
