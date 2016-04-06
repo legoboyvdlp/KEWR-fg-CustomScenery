@@ -1,0 +1,7 @@
+OBJECT_BASE 1728651.btg
+OBJECT KBLM.btg
+OBJECT_SHARED Models/Airport/beacon.xml -74.125361 40.188417 39.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.125383 40.180304 42.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.135598 40.195008 33.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.119841 40.189860 41.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.116486 40.180692 40.1 0.00
