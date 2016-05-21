@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<groundnet>
+    <parkingList>
+        <Parking index="0" type="gate" name="North_Cargo_1" lat="N40 39.41340" lon="W73 47.80780" heading="90.04" />
+        <Parking index="1" type="gate" name="North_Cargo_2" lat="N40 39.14873" lon="W73 48.10609" heading="89.51" />
+        <Parking index="2" type="gate" name="North_Hangar" lat="N40 39.49160" lon="W73 47.14077" heading="30" />
+        <Parking index="3" type="gate" name="North_Hangar" lat="N40 39.48019" lon="W73 46.73700" heading="31.69" />
+        <Parking index="4" type="gate" name="North_Hangar" lat="N40 39.42399" lon="W73 46.50024" heading="39.79" />
+        <Parking index="5" type="gate" name="North_Ramp_1" lat="N40 39.18570" lon="W73 46.39257" heading="358.84" />
+        <Parking index="6" type="gate" name="North_Ramp_2" lat="N40 39.13906" lon="W73 46.35996" heading="120.62" />
+        <Parking index="7" type="gate" name="South_Cargo_1" lat="N40 38.87135" lon="W73 48.30226" heading="236.31" />
+        <Parking index="8" type="gate" name="South_Cargo_2" lat="N40 39.24206" lon="W73 48.75902" heading="244.46" />
+        <Parking index="9" type="gate" name="South_Cargo_3" lat="N40 39.27398" lon="W73 49.11178" heading="300" />
+        <Parking index="10" type="gate" name="Storage_Area" lat="N40 38.28954" lon="W73 46.69890" heading="236.52" />
+        <Parking index="11" type="gate" name="Term_1" lat="N40 38.57034" lon="W73 47.52224" heading="99.55" />
+        <Parking index="12" type="gate" name="Term_2" lat="N40 38.39966" lon="W73 47.42197" heading="63.33" />
+        <Parking index="13" type="gate" name="Term_3" lat="N40 38.34614" lon="W73 47.10901" heading="244.83" />
+        <Parking index="14" type="gate" name="Term_4" lat="N40 38.51098" lon="W73 46.90665" heading="279.51" />
+        <Parking index="15" type="gate" name="Term_4" lat="N40 38.54891" lon="W73 46.76782" heading="6.55" />
+        <Parking index="16" type="gate" name="Term_6" lat="N40 38.91116" lon="W73 46.66653" heading="246.71" />
+        <Parking index="17" type="gate" name="Term_7" lat="N40 39.02985" lon="W73 46.88568" heading="241.85" />
+        <Parking index="18" type="gate" name="Term_8/9" lat="N40 38.79873" lon="W73 47.63394" heading="61.57" />
+        <Parking index="19" type="gate" name="Term_8/9" lat="N40 38.96983" lon="W73 47.38030" heading="192.77" />
+        <Parking index="20" type="gate" name="Term_8/9" lat="N40 38.94799" lon="W73 47.23682" heading="270.83" />
+    </parkingList>
+</groundnet>
